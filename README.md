@@ -3,7 +3,7 @@
 Code and trained weights for
 
 > **ApproxDA-TransUNet: Understanding Global Context Sensitivity of Attention Approximation for Medical Image Segmentation**
-> Jiawei Zhong, Qin Chen, Hui Zhang. ML4BMI Workshop, IEEE BIBM 2026.
+> Jiawei Zhong, Qin Chen, Hui Zhang. IEEE BIBM 2026.
 
 ApproxDA-TransUNet keeps the hybrid R50-ViT-B/16 encoder–decoder of DA-TransUNet and replaces its dual-attention
 heads with ApproxDABlocks: a windowed low-rank position attention (window size `M`, projection rank `r`) and a
