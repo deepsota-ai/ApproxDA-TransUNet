@@ -1,3 +1,12 @@
+# ApproxDA-TransUNet: data, weights and outputs are not tracked (weights are release assets)
+data/
+pretrained/
+weights/
+model/
+test_log/
+*.pth
+*.npz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
