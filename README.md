@@ -2,7 +2,7 @@
 
 Code and trained weights for
 
-> **ApproxDA-TransUNet: Understanding Global Context Sensitivity of Attention Approximation for Medical Image Segmentation**
+> **ApproxDA-TransUNet: Exploring Window Sensitivity in Dual-Attention Approximation for Medical Image Segmentation**
 > Jiawei Zhong, Qin Chen, Hui Zhang. IEEE BIBM 2026.
 
 ApproxDA-TransUNet keeps the hybrid R50-ViT-B/16 encoder–decoder of DA-TransUNet and replaces its dual-attention
@@ -105,7 +105,7 @@ This code builds on [TransUNet](https://github.com/Beckschen/TransUNet) and
 
 ```bibtex
 @inproceedings{zhong2026approxda,
-  title     = {ApproxDA-TransUNet: Understanding Global Context Sensitivity of Attention Approximation for Medical Image Segmentation},
+  title     = {ApproxDA-TransUNet: Exploring Window Sensitivity in Dual-Attention Approximation for Medical Image Segmentation},
   author    = {Zhong, Jiawei and Chen, Qin and Zhang, Hui},
   booktitle = {IEEE International Conference on Bioinformatics and Biomedicine (BIBM) Workshops},
   year      = {2026}
